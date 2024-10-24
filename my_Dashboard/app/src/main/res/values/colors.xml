@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#A2ABE0</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg">#FFE2DB</color>
+
+    <color name="light_gray">#EEEEEE</color>
+    <color name="colorPrimary">#009688</color>
+
+    <color name="colorCategoryAdded">#4CAF50</color>
+    <color name="colorTaskCompleted">#2196F3</color>
+    <color name="colorDeadlineApproaching">#FFC107</color>
+    <color name="colorDefaultActivity">#9E9E9E</color>
+</resources>
